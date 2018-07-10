@@ -1,0 +1,16 @@
+{
+  "name": "meteoproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "materialize-css": "^0.100.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
